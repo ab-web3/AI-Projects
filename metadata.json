@@ -1,0 +1,6 @@
+{
+  "name": "FDP Class Portal",
+  "description": "Faculty Development Program portal featuring interactive session schedules, downloadable lecture resources, AI lesson plan & quiz generator, attendance tracking, and certificate generation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
